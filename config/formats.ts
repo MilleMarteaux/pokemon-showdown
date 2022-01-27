@@ -22,9 +22,9 @@ export const Formats: FormatList = [
 	// Sw/Sh Singles
 	///////////////////////////////////////////////////////////////////
 
-	{
-		section: "Sw/Sh Singles",
-	},
+//	{
+//		section: "Sw/Sh Singles",
+//	},
 	{
 		name: "[Gen 8] Random Battle",
 		desc: `Randomized teams of level-balanced Pok&eacute;mon with sets that are generated to be competitively viable.`,
