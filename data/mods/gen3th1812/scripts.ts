@@ -43,10 +43,6 @@ export const Scripts: ModdedBattleScriptsData = {
 			// Weather
 			baseDamage = this.battle.runEvent('WeatherModifyDamage', pokemon, target, move, baseDamage);
 
-			if (move.category === 'Physical' && !Math.floor(baseDamage)) {
-				baseDamage = 1;
-			}
-
 			baseDamage += 2;
 
 			const isCrit = target.getMoveHitData(move).crit;
