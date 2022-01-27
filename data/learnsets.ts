@@ -99692,4 +99692,5 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
       skyattack: ["3E"],
       heatclaw: ["3E"],
     },
+  },
 };
