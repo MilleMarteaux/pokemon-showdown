@@ -1,6 +1,6 @@
 export const Pokedex: {[speciesid: string]: SpeciesData} = {
 	chibisanae: {
-		num: -101,
+		num: 900,
 		name: "Chibi Sanae",
 		types: ["Dragon"],
 		genderRatio: {M: 0.5, F: 0.5},
