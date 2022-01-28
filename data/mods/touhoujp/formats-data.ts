@@ -1397,1470 +1397,1837 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
 	},
 	chibisanae: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	sanae: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibialice: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	alice: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibireisen: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	reisen: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibililywhite: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	lilywhite: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibililyblack: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	lilyblack: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibimomiji: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	momiji: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibishizuha: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	shizuha: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibimedicine: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	medicine: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibikoakuma: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	koakuma: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibinazrin: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	nazrin: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibitokiko: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	tokiko: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibiremilia: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	remilia: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibicirno: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	cirno: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibirumia: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	rumia: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	shanghai: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "NFE",
 	},
 	chibiflandre: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	flandre: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	hourai: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "NFE",
 	},
 	chibiyoumu: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	youmu: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibiyukari: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	yukari: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibisuika: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	suika: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibimystia: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	mystia: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibiminoriko: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	minoriko: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibikeine: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	keine: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	attackkeine: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibiiku: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	iku: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibikoishi: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	koishi: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibiyamame: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	yamame: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibichen: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	chen: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibiyorihime: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	yorihime: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibikaguya: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	kaguya: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibimokou: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	mokou: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibihatate: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	hatate: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibiletty: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	letty: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibipatchouli: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	patchouli: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibiyuugi: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	yuugi: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibitenshi: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	tenshi: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibiparsee: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	parsee: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibimurasa: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	murasa: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibikisume: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	kisume: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibikogasa: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	kogasa: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibisatori: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	satori: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibieirin: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	eirin: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibiran: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	ran: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibidaiyousei: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	daiyousei: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibinitori: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	nitori: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibihina: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	hina: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibikomachi: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	komachi: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibiyuyuko: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	yuyuko: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibimeiling: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	meiling: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibisakuya: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	sakuya: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibilunasa: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	lunasa: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibimerlin: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	merlin: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibilyrica: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	lyrica: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibilayla: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	layla: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibikanako: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	kanako: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibirin: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	rin: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibiutsuho: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	utsuho: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibiichirin: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	ichirin: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibisunnymilk: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	sunnymilk: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibilunachild: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	lunachild: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibistarsapphire: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	starsapphire: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibiyuuka: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	yuuka: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibiaya: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	aya: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibieiki: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	eiki: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibishou: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	shou: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibiwriggle: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	wriggle: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibitewi: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	tewi: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	kedama: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "NFE",
 	},
 	chibinue: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	nue: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibisuwako: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	suwako: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	gyokuto: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "NU",
 	},
 	chibimarisa: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	marisa: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibireimu: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	reimu: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibibyakuren: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	byakuren: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	konngara: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	kikuri: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	yuugenmagan: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibitoyohime: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	toyohime: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	goliathdoll: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	sariel: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	akyuu: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	genji: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "UU",
 	},
 	tori: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "NU",
 	},
 	namazu: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibielly: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	elly: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibiorange: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	orange: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	youki: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibichiyuri: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	chiyuri: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibiyumemi: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	yumemi: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibiellen: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	ellen: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibikazami: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	kazami: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibimeira: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	meira: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibisara: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	sara: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibiluize: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	luize: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibimargatroid: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	margatroid: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibikana: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	kana: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibihakurei: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	hakurei: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibikirisame: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	kirisame: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibikotohime: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	kotohime: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibiyumeko: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	yumeko: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibishinki: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	shinki: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	mimichan: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	ruukoto: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibirika: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	rika: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibimugetsu: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	mugetsu: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibigengetsu: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	gengetsu: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibikurumi: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	kurumi: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibirikako: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	rikako: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibiyuki: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	yuki: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibimai: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	mai: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	defensesunnymilk: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	technicallunachild: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	helperstarsapphire: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	attacknitori: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	technicalnitori: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	attackmokou: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	defensemokou: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	defensereisen: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	technicalreisen: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	technicalsakuya: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	helpersakuya: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	attackrumia: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	speedrumia: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	helpermystia: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	attackmystia: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	attackchen: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	technicalchen: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	defenseyoumu: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	speedyoumu: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	attackyuuka: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	technicalyuuka: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	speedaya: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	technicalaya: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	attacktenshi: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	defensetenshi: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	defenseparsee: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	technicalparsee: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	attackkoishi: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	speedkoishi: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	defensebyakuren: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	technicalbyakuren: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	defenseichirin: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	technicalichirin: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	attackkanako: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	defensekanako: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	attackkaguya: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	defensekaguya: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	shingyokuorb: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	shingyokupriest: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	shingyokupriestess: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	attackutsuho: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	speedutsuho: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	defensemomiji: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	elis: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	mima: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	speedkomachi: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	attackkomachi: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	attackeirin: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	helpereirin: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	defenseyukari: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	technicalyukari: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	attackalice: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	technicalalice: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	attackreimu: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	defensereimu: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	speedcirno: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	technicalcirno: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	defenseyuyuko: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	attackyuyuko: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	helperlunasa: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	helpermerlin: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	helperlyrica: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	attackran: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	helperran: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	attackmedicine: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	technicalmedicine: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	attackhina: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	defensehina: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	speedshizuha: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	speedrin: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	attackrin: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	zombiefairy: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	helpershizuha: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	attacksuwako: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	attackshou: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	technicalshou: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	attacktokiko: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	defensesuwako: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	speedyamame: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	speedkogasa: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	technicalkogasa: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	defenseremilia: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	speedflandre: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	defensewriggle: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	defensemeiling: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	tensoku: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	attacksunnymilk: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	attacklunachild: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	speedwriggle: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	helperkoakuma: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	speedmeiling: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibielis: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	chibisariel: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	adventmystia: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	technicalhatate: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	defensehatate: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	akisisters: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	defenselayla: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	defensekeine: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	attackremilia: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	defensetewi: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	attacktewi: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	defenseeiki: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	defenseminoriko: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	technicalsuika: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	attacksanae: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	technicalsanae: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	attackflandre: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	attackdaiyousei: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	attackeiki: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	technicaltoyohime: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibikonngara: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	chibiyuugenmagan: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	attacksuika: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	helperlilywhite: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	speedlilyblack: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	attacknue: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	technicalnue: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	defensepatchouli: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	defenseletty: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	helperletty: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	speedyorihime: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibishingyoku: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	attacklilyblack: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	defenseyuugi: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	technicalnazrin: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	helpernazrin: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	technicalkisume: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	attackyuugi: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	helperkeine: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	defenseiku: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	technicaliku: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	attackminoriko: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	rinnosuke: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	adventcirno: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	adventreisen: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	speedsariel: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	attacklilywhite: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibimima: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	chibikikuri: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "LC",
 	},
 	adventmeiling: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	attackpatchouli: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	speedmarisa: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	attackmarisa: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	defensemurasa: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	attackmurasa: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	attackstarsapphire: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	attackkazami: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	speedmedicine: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	defensedaiyousei: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	technicalyamame: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	technicalsatori: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	defensesatori: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	adventletty: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	adventtewi: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	adventmarisa: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	adventalice: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	adventmokou: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	adventyukari: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	adventran: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	adventchen: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	darkalice: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	tenma: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	sendai: {
 		inherit: true,
+		isNonstandard: "VanillaPuppet",
 		tier: "OU",
 	},
 	chibikyouko: {
